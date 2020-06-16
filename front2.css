@@ -1,0 +1,81 @@
+div.tm-body{
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    height: 1300px;
+}
+div.tm-head
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: white
+}
+div.tm-list{
+    float: right;
+    width: 75%;
+    margin-top: 5px;
+    padding-left: 80px;
+}
+.tm-nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.listitem{
+    display: inline-block;
+    width: 18%;
+}
+.image
+{
+    margin-left: 150px;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+body{
+    background-image: url('images2/pexels-photo-326333.jpeg');
+}
+a:visited{
+    color: black;
+}
+section{
+    padding-left: 100px;
+    padding-top: 30px;
+    background-color: rgba(211, 110, 38, 0.014);
+}
+article{
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-right: 100px;
+}
+.tm-footer{
+    text-transform: capitalize;
+    font-size: medium;
+    text-align: center;
+    margin-top: 50px;
+    word-spacing: 10px;
+}
+p{
+    font-size:medium;
+    word-spacing: 8px;
+    line-height: 25px;
+}
+h1
+{
+    text-transform: capitalize;
+}
+.mainclass{
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    padding-left: 50px;
+    text-decoration: underline;
+}
